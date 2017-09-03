@@ -487,7 +487,7 @@ B. Expense reports must be filled out completely with appropriate approval/signa
 the approval signature from the appropriate Barony of Axemoor office or the Seneschal and shall be
 submitted by that officer to the Exchequer.
 C. Reimbursement made after purchase can be made only with appropriate prior written approval.
-D. Any expense exceeding $150 (except event expenses) must have prior approval from the Baronial
+D. Any expense exceeding $100 (except event expenses) must have prior approval from the Baronial
 Financial committee.
 E. Advances may be made if purchase requires substantial expense. An estimate or quote is preferable in
 this instance with payment sent directly to the vendor/supplier, with cash advance form.
